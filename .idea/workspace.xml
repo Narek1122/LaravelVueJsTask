@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e187d95-5318-45b1-ad18-c79a01d14e12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/static/Images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/2/1/947200518061237500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/2/2/52029213562955160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/2/3/681109645043243500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/3/1/29721861554176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/3/2/16777216000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/3/3/7896739287939062021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/4/1/685478051557568400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/4/2/12827693806929.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/4/3/60179143072269380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/5/1/68077742987260160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/5/2/111726661732987460.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/5/3/1973822685184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/partImages/usernullimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/profileImages/131382396407607410.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/profileImages/200859416110144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/profileImages/244939541742696260.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/profileImages/44371263363765624.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/profileImages/730461405459781800.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Admins/AdminPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Admins/AdminPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Admins/AdminProfile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Admins/AdminProfile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Admins/SearchUser.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Admins/SearchUser.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Admins/UsersProduct.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Admins/UsersProduct.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Admins/adminz_routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Admins/adminz_routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Auth/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Auth/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Auth/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Auth/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Errors/PageError.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Errors/PageError.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Home/Catalogparts.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Home/Catalogparts.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Home/HomeDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Home/HomeDetails.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Home/HomePage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Home/HomePage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Home/Search.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Home/SearchParts.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Home/home_routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Home/home_routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/User/AddCarParts.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/User/AddCarParts.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/User/MyParts.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/User/MyParts.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/User/PartsCatalog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/User/PartsCatalog.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/User/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/User/Profile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/User/Settings.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/User/Settings.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/User/profile_routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/User/profile_routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app/Http/Controllers/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/app/Http/Controllers/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app/Http/Controllers/FileUploadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/app/Http/Controllers/FileUploadController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app/Http/Controllers/PartsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/app/Http/Controllers/PartsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app/Http/Requests/AddPartReq.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/app/Http/Requests/AddPartReq.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app/Models/Parts.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/app/Models/Parts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/database/migrations/2021_04_14_231931_create_parts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/database/migrations/2021_04_14_231931_create_parts_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/database/seeders/CarSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/database/seeders/CarSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/database/seeders/UserSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/database/seeders/UserSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/0a043f50fd156f21c7a4b5d3599d2d90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/358f5719260169fb63c3bd494032a8cb.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/50b5635753df76bc494559d2f316eb57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/6132c7110557c1353d9287275c3162a2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/62b68b20fbb117f9d8124bd589c2c1f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/8813b8a970587ce04dfcd7ddc971abce.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/8d9f0871ef59032f9dafa7a18b9389a6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/a03fe1552bc81f9c10bdd62f1dec37d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/b236c5e8568845eb1470d92b9232f482.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/bdf177d9116ddc636c6beb6bed02f05f.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/ceec3612e4e79f55d7b8cfc350c43d04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/d30ba117d0318a92cccaaf518a73e88d.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/partImages/e89276f7df4daf4886b8daf7c3183401.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/profileImages/bf30c67e6118923e9a63f632584bdb2f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/api.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/server/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/server/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/server/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/server/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/server/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/server/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/server/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/server/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/server/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/server/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/server/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/server/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/server/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/server/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/server/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/server/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/server/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/server/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/server/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/server/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/server/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/server/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/server/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/server/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/server/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/server/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/server/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/server/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/server/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/server/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/server/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/server/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/server/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/server/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/server/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/server/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/server/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/server/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/server/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/server/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/server/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/server/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/server/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/server/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/server/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/server/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/server/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/server/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/server/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/server/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/server/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/server/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/server/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/server/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/server/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/server/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/server/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/server/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/server/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/server/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/server/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/server/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/server/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/server/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/server/vendor/composer" />
+      <path value="$PROJECT_DIR$/server/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/server/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/server/vendor/lcobucci/jwt" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1qccuePXUzgvULuzhuVe8yy33mH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server/public/partImages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\narek\laravel3\axios\server\public\partImages" />
+      <recent name="C:\xampp\htdocs\narek\laravel3\axios\server\public\profileImages" />
+      <recent name="C:\xampp\htdocs\narek\laravel3\axios\server\public\partImages\11\2" />
+      <recent name="C:\xampp\htdocs\narek\laravel3\axios\client\src\components\Admins" />
+      <recent name="C:\xampp\htdocs\narek\laravel3\axios\client\src\components\Admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\narek\laravel3\axios\server\public\partImages" />
+      <recent name="C:\xampp\htdocs\narek\laravel3\axios\server\public\profileImages" />
+      <recent name="C:\xampp\htdocs\narek\laravel3\axios\client\static\Images" />
+      <recent name="C:\xampp\htdocs\narek\laravel3\axios\client\src\components\Images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e187d95-5318-45b1-ad18-c79a01d14e12" name="Default Changelist" comment="" />
+      <created>1617382543030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617382543030</updated>
+      <workItem from="1617382544233" duration="998000" />
+      <workItem from="1617383634058" duration="82000" />
+      <workItem from="1617383951791" duration="105000" />
+      <workItem from="1617384060481" duration="2534000" />
+      <workItem from="1617624390165" duration="55000" />
+      <workItem from="1617639085139" duration="6921000" />
+      <workItem from="1617795970944" duration="62000" />
+      <workItem from="1617811509547" duration="4833000" />
+      <workItem from="1617823369889" duration="456000" />
+      <workItem from="1617860255742" duration="3047000" />
+      <workItem from="1617886823004" duration="552000" />
+      <workItem from="1617900629306" duration="638000" />
+      <workItem from="1617904510488" duration="807000" />
+      <workItem from="1617945349407" duration="4196000" />
+      <workItem from="1617966381137" duration="2628000" />
+      <workItem from="1618045681935" duration="1023000" />
+      <workItem from="1618307622817" duration="8434000" />
+      <workItem from="1618322977898" duration="3304000" />
+      <workItem from="1618326970196" duration="3741000" />
+      <workItem from="1618441191442" duration="7661000" />
+      <workItem from="1618469266569" duration="17885000" />
+      <workItem from="1618491866284" duration="16248000" />
+      <workItem from="1618549990431" duration="19266000" />
+      <workItem from="1618569484197" duration="23112000" />
+      <workItem from="1618642868314" duration="19774000" />
+      <workItem from="1618683459960" duration="370000" />
+      <workItem from="1618707537353" duration="21937000" />
+      <workItem from="1618736693140" duration="26515000" />
+      <workItem from="1618832260244" duration="13942000" />
+      <workItem from="1618860177064" duration="2689000" />
+      <workItem from="1618892887403" duration="10210000" />
+      <workItem from="1618920385748" duration="13017000" />
+      <workItem from="1618969809722" duration="35601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/src/components/Admins/adminz_routes.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
